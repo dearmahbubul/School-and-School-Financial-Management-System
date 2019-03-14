@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 //date_default_timezone_set('Asia/Dhaka');
-$config['base_url'] = 'http://localhost/codeigniter-ecommerce/';
+$config['base_url'] = 'http://localhost/school-and-school-financial-management-system/';
 
 /*
 |--------------------------------------------------------------------------
